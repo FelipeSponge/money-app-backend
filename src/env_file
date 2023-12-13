@@ -1,0 +1,6 @@
+//Renomear para .env
+//Arquivo modelo
+
+module.exports = {
+  authSecret: "fsdfsdggfdfg",
+};
